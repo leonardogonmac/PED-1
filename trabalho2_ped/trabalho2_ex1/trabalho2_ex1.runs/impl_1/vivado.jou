@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.2 (64-bit)
+# SW Build 1909853 on Thu Jun 15 18:39:09 MDT 2017
+# IP Build 1909766 on Thu Jun 15 19:58:00 MDT 2017
+# Start of session at: Mon Sep 19 09:30:53 2022
+# Process ID: 20620
+# Current directory: E:/trabalho2_ex1/trabalho2_ex1.runs/impl_1
+# Command line: vivado.exe -log cronometro.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source cronometro.tcl -notrace
+# Log file: E:/trabalho2_ex1/trabalho2_ex1.runs/impl_1/cronometro.vdi
+# Journal file: E:/trabalho2_ex1/trabalho2_ex1.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source cronometro.tcl -notrace

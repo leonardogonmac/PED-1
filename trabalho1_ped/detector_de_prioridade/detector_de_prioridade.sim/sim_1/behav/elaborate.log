@@ -1,0 +1,14 @@
+Vivado Simulator 2017.2
+Copyright 1986-1999, 2001-2016 Xilinx, Inc. All Rights Reserved.
+Running: D:/Vivado/Vivado/2017.2/bin/unwrapped/win64.o/xelab.exe -wto b6d2bec4fa584a0b884847b807c76e47 --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot detector_prioridade_behav xil_defaultlib.detector_prioridade -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling architecture behavioral of entity xil_defaultlib.detector_prioridade
+Built simulation snapshot detector_prioridade_behav

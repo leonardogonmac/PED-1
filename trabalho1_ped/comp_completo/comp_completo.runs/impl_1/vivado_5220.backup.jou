@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.2 (64-bit)
+# SW Build 1909853 on Thu Jun 15 18:39:09 MDT 2017
+# IP Build 1909766 on Thu Jun 15 19:58:00 MDT 2017
+# Start of session at: Fri Jul 29 16:19:40 2022
+# Process ID: 5220
+# Current directory: C:/Users/leona/OneDrive/rea de Trabalho/UnB/2022.1/Prtica de Eletrnica Digital 1/comparador_completo/comparador_completo.runs/impl_1
+# Command line: vivado.exe -log Q2.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source Q2.tcl -notrace
+# Log file: C:/Users/leona/OneDrive/rea de Trabalho/UnB/2022.1/Prtica de Eletrnica Digital 1/comparador_completo/comparador_completo.runs/impl_1/Q2.vdi
+# Journal file: C:/Users/leona/OneDrive/rea de Trabalho/UnB/2022.1/Prtica de Eletrnica Digital 1/comparador_completo/comparador_completo.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source Q2.tcl -notrace
